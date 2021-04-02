@@ -1,1 +1,3 @@
-# Simulating-a-simple-pendulum
+# Simulating a simple pendulum in Python
+
+
