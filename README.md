@@ -1,3 +1,3 @@
-# Simulating a simple pendulum in Python
+# Calculating and graphing the period of a simple pendulum
 
 
